@@ -1,0 +1,37 @@
+# Ignore data and results files
+data/
+results/
+
+# Ignore checkpoints files
+checkpoints/
+
+# Ignore IDE and editor files
+.idea/
+.vscode/
+.ipynb_checkpoints/
+.mypy_cache/
+.conda/
+
+# Ignore Python compiled files
+__pycache__/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+log/
+stoc_log
+
+# Ignore package files
+*.zip
+*.tar.gz
+*.rar
+
+# Ignore test files
+*_test.py
+
+# Ignore pdf and npz
+*.pdf
+*.npz
+
+# Ignore pyc
+*.pyc

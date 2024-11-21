@@ -1,0 +1,1 @@
+from .rnn import MnnRnn, VnnRnn, manifold_func
